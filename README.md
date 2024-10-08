@@ -2,9 +2,9 @@
 
 Submitted by: **Noah Dean**
 
-This web app: **A remake of the classic "Who's That Pokémon?" game. A Pokémon silhoutte is shown to the player and the player has to guess the name of the Pokémon shown. Click on the Pokémon to reveal the name of that Pokémon! Includes all 1025 current Pokémon.**
+This web app: **A remake of the classic "Who's That Pokémon?" game. A Pokémon silhoutte is shown to the player and the player has to guess the name of the Pokémon shown. Enter your guess and click submit to reveal the name of that Pokémon! Includes all 1025 current Pokémon.**
 
-Time spent: **20** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] Added Reset button so that the user can try again or let a fried try
 
 ## Video Walkthrough
 
@@ -41,7 +41,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenges faced was correcting the stying to be exactly as I wanted it.
 
 ## License
 
